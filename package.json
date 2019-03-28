@@ -2,9 +2,9 @@
   "name": "Test",
   "description": "Test",
   "version": "0.0.0",
-  "main": "bot.js",
+  "main": "C:\Users\luisp\OneDrive\Desktop\modmailbot-master",
   "scripts": {
-    "start": "node bot.js"
+    "start": "C:\Users\luisp\OneDrive\Desktop\modmailbot-master"
   },
   "dependencies": {
     "discord.js": "11.1.0",
